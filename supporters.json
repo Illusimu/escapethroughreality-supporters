@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "revision": "f6c7d160d00bbb96127c8b1f4880980bcbb64808d143fc66b880a1e0888153ff",
-  "generatedAt": 1794492911,
-  "validUntil": 1794665711,
-  "supporters": [
-    {
-      "displayName": "Illusimu",
-      "tier": "supporter",
-      "permissions": [
-        "supporter"
-      ]
-    }
-  ],
+  "revision": "7ce420dc6fcf073c0ad3ce559f8508312eae2919e1c3533f877849772474f4e9",
+  "generatedAt": 1794518287,
+  "validUntil": 1794691087,
+  "supporters": [],
   "entitlements": [
     {
       "displayName": "Ciryaher",
@@ -28,7 +20,7 @@
       "permissions": [
         "supporter"
       ],
-      "showInCredits": true,
+      "showInCredits": false,
       "expiresAt": 0
     }
   ]
